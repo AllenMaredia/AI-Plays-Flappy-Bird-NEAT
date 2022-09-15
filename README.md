@@ -1,4 +1,4 @@
-# AI-Plays-Flappy-Bird-NEAT-
+# AI-Plays-Flappy-Bird-NEAT
 
 Using python I recreated the flappy bird game using the Pygame module and then used NeuroEvolution of Augmenting Topologies (NEAT) to create artificial neural networks to train a bird who can beat the game.
 NEAT: https://neat-python.readthedocs.io/en/latest/index.html
